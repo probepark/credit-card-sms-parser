@@ -34,7 +34,7 @@ GEM
     rack (1.6.0)
     rack-protection (1.5.3)
       rack
-    rake (10.4.2)
+    rake (12.3.3)
     rltk (3.0.0)
       ffi (>= 1.0.0)
       filigree (>= 0.2.0)
