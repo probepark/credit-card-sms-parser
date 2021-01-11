@@ -17,7 +17,7 @@ GEM
     bump (0.5.2)
     faraday (0.9.1)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.8)
+    ffi (1.14.2)
     filigree (0.3.2)
     geminabox (0.12.4)
       builder
